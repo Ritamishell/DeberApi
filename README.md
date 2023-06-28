@@ -1,3 +1,6 @@
+![Captura de pantalla 2023-06-28 152151](https://github.com/Ritamishell/DeberApi/assets/135658559/465c590a-8fed-49b4-9fb2-5c33aa58c9c2)
 # DeberApi
 Deber API RESTful en formato JSON en Android
-![Captura de pantalla 2023-06-20 124711](https://github.com/Ritamishell/DeberApi/assets/135658559/178140d7-ea3f-4bc8-8d8b-b511a3ef6ee3)
+
+![Uploading Captura de pantalla 2023-06-28 152122.png…]()
+![Uploading Captura de pantalla 2023-06-28 152021.png…]()
